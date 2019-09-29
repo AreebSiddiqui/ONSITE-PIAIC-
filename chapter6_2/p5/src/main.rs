@@ -17,7 +17,7 @@ fn main() {
         middle_name:Option::None,
         last_name:String::from("Iqbal"),
     };
-
+    
     let result = check(qauid_e_azam);
     println!("{}",result);
     let result = check(shair_e_mashriq);
@@ -31,3 +31,7 @@ fn check (name : Fullname) -> String {
         None => String::from("No middle name Found"),
     }
 }
+
+
+
+
