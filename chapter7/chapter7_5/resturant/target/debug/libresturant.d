@@ -1,0 +1,1 @@
+/home/areeb/c_project/chapter7/chapter7_5/resturant/target/debug/libresturant.rlib: /home/areeb/c_project/chapter7/chapter7_5/resturant/src/front_house/hosting.rs /home/areeb/c_project/chapter7/chapter7_5/resturant/src/front_house.rs /home/areeb/c_project/chapter7/chapter7_5/resturant/src/lib.rs
